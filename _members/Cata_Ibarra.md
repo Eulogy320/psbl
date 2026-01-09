@@ -5,7 +5,6 @@ description: Plant molecular biology
 status: current
 role: Research Associate
 aliases: Cata
-  
 links:
   home-page: 
   email: caibarra@uc.cl
