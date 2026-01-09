@@ -1,0 +1,15 @@
+---
+---
+
+.icon {
+  font-size: 1em;
+}
+
+span.icon {
+  line-height: 1;
+}
+
+span.icon > svg {
+  position: absolute;
+  top: 10px;
+  height: 10px}
