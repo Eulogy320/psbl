@@ -4,7 +4,8 @@ image: imagen que sale en la pagina web del lab
 description: Plant molecular biology
 status: current
 role: Research Associate
-aliases: Cata
+aliases: 
+  - Cata
 links:
   home-page: 
   email: caibarra@uc.cl
