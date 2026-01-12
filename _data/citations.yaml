@@ -357,3 +357,447 @@
   link: https://doi.org/hbjqqp
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1073/pnas.2304513120
+  title: "PIF4 enhances the expression of\n            <i>SAUR</i>\n            genes\
+    \ to promote growth in response to nitrate"
+  authors:
+  - "Mat\xEDas Ezequiel Pereyra"
+  - Cecilia Costigliolo Rojas
+  - Anne F. Jarrell
+  - Austin S. Hovland
+  - Stephen A. Snipes
+  - Punita Nagpal
+  - "David Alabad\xED"
+  - "Miguel A. Bl\xE1zquez"
+  - "Rodrigo A. Guti\xE9rrez"
+  - Jason W. Reed
+  - William M. Gray
+  - "Jorge Jos\xE9 Casal"
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2023-09-19'
+  link: https://doi.org/hbjqv8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/jxb/erad149
+  title: Characterization of the signalling pathways involved in the repression of
+    root nitrate uptake by nitrate in <i>Arabidopsis thaliana</i>
+  authors:
+  - Valentin Chaput
+  - Jianfu Li
+  - "David S\xE9r\xE9"
+  - Pascal Tillard
+  - "C\xE9cile Fizames"
+  - Tomas Moyano
+  - Kaijing Zuo
+  - Antoine Martin
+  - "Rodrigo A Guti\xE9rrez"
+  - Alain Gojon
+  - Laurence Lejay
+  publisher: Journal of Experimental Botany
+  date: '2023-04-25'
+  link: https://doi.org/hbjqv9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s40793-023-00486-w
+  title: Testing the stress gradient hypothesis in soil bacterial communities associated
+    with vegetation belts in the Andean Atacama Desert
+  authors:
+  - Dinka Mandakovic
+  - Constanza Aguado-Norese
+  - "Beatriz Garc\xEDa-Jim\xE9nez"
+  - Christian Hodar
+  - Jonathan E. Maldonado
+  - Alexis Gaete
+  - Mauricio Latorre
+  - Mark D. Wilkinson
+  - "Rodrigo A. Guti\xE9rrez"
+  - Lohengrin A. Cavieres
+  - "Joaqu\xEDn Medina"
+  - "Ver\xF3nica Cambiazo"
+  - Mauricio Gonzalez
+  publisher: Environmental Microbiome
+  date: '2023-03-28'
+  link: https://doi.org/gv8tjq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s40659-023-00414-9
+  title: 'DNA sequencing in the classroom: complete genome sequence of two earwig
+    (Dermaptera; Insecta) species'
+  authors:
+  - Sanae Kobayashi
+  - Jonathan E. Maldonado
+  - Alexis Gaete
+  - Ingrid Araya
+  - Constanza Aguado-Norese
+  - "Nicol\xE1s Cumplido"
+  - "Sebasti\xE1n D\xEDaz"
+  - Alonso Espinoza
+  - "Edelmira Fern\xE1ndez"
+  - Felipe Gajardo
+  - "Felipe Gonz\xE1lez-Ordenes"
+  - Khantati Hauyon
+  - Piedad Maldonado
+  - Rodrigo Maldonado
+  - Isabel Pochet
+  - "An\xEDbal Riveros"
+  - Paula Sandoval
+  - "Ailynne Sep\xFAlveda-Gonz\xE1lez"
+  - Camila Stuardo
+  - Patricio Tapia-Reyes
+  - Carolina Thornton
+  - Soledad Undurraga
+  - Macarena Varas
+  - Camilo Valdivieso
+  - Alan Phillips
+  - Alejandro Aros
+  - "Alexandra Alarc\xF3n"
+  - Alonso Mendiboure
+  - "Alyson Sep\xFAlveda"
+  - Amalia Zepeda
+  - Angela Bustamante
+  - Angelo Russu
+  - "Anselmo Mart\xEDnez"
+  - Antonia Inostroza
+  - Antonio Palma
+  - "B\xE1rbara Ponce"
+  - "Bel\xE9n B\xE1ez"
+  - "Bel\xE9n Dianta"
+  - "Benjam\xEDn Zenteno"
+  - Berenice Jelvez
+  - "Brisa Henr\xEDquez"
+  - Camila Concha
+  - Catalina Fuentes
+  - Catalina Morales
+  - Claudia Inostrosa
+  - Claudio Valenzuela
+  - Constanza Dercolto
+  - "Cristian Malebr\xE1n"
+  - "Dami\xE1n Gonz\xE1lez"
+  - Daniel Venegas
+  - Dayhanne Alvear
+  - "Deyna Mart\xEDnez"
+  - Diana Silva
+  - Diego Abarca
+  - "El\xEDas Fuentes"
+  - Elizabeth Inzunza
+  - "Fabi\xE1n Alfaro"
+  - Fernanda Aqueveque
+  - Fernanda Cartes
+  - Fernanda Delgado
+  - Fernanda Sandoval
+  - Fernanda Tamayo
+  - Francisco Espinoza
+  - Gladys Espinoza
+  - Gonzalo Inzunza
+  - Gonzalo Vidal
+  - Grisel Roca
+  - "Hileinn S\xE1nchez"
+  - Jared Defaur
+  - Jonathan Sazo
+  - "Jos\xE9 Manuel Fuentes"
+  - "Jos\xE9 Miguel Ca\xF1ete"
+  - "Juan Pablo V\xE1squez"
+  - Karin Reyes
+  - "Karina Pi\xF1a"
+  - Katherien Orellana
+  - Lisandro Vega
+  - Loreto Lagos
+  - Magdalena Ponce
+  - Catalina Maldonado
+  - "Mar\xEDa Alejandra Gonz\xE1lez"
+  - "Mar\xEDa Ignacia Torres"
+  - Mariana Irribarra
+  - Mariangela Sanguinetti
+  - Mario Leiva
+  - Marjorie Ibacache
+  - "Mart\xEDn Ya\xF1ez"
+  - Martina Palamara
+  - Massimo Magnani
+  - Maykol Padilla
+  - Millaray Arancibia
+  - Milovan Acevedo
+  - "G\xE9nesis Morales"
+  - Nallely Castillo
+  - "N\xE9lida Carvajal"
+  - "Omar Gonz\xE1lez"
+  - Paola Alvarado
+  - "P\xEDa Mu\xF1oz"
+  - Renata Erazo
+  - "Roc\xEDo Silva"
+  - "Rodrigo Sep\xFAlveda"
+  - "Rodrigo Vald\xE9s"
+  - Ronny Molina
+  - "Sara\xED Costa"
+  - "Sebasti\xE1n Alvear"
+  - "Sof\xEDa Acu\xF1a"
+  - "Sof\xEDa Mendoza"
+  - "Sofia S\xE1ez"
+  - "Sof\xEDa Tapia"
+  - Tamara Cerda
+  - "Tom\xE1s Zamorano"
+  - Valentina Araya
+  - Valentina Cortez
+  - Valentina Pereira
+  - Valentina Pino
+  - "Victoria Y\xE1\xF1ez"
+  - Viviana Jaramillo
+  - Yavanna Rivera
+  - Yerko Urbina
+  - "Zuleimy Uzc\xE1tegui"
+  - "Rodrigo A. Guti\xE9rrez"
+  - Ariel Orellana
+  - "Mart\xEDn Montecino"
+  - Alejandro Maass
+  - "Mauricio Gonz\xE1lez"
+  - Miguel L. Allende
+  - Christian Hodar
+  - Paula Irles
+  publisher: Biological Research
+  date: '2023-02-17'
+  link: https://doi.org/hbjqwb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/nph.18723
+  title: Cell surface receptor kinase <scp>FERONIA</scp> linked to nutrient sensor
+    <scp>TORC</scp> signaling controls root hair growth at low temperature linked
+    to low nitrate in <i>Arabidopsis thaliana</i>
+  authors:
+  - "Javier Mart\xEDnez Pacheco"
+  - Limei Song
+  - "Lenka Kub\u011Bnov\xE1"
+  - "Miroslav Ove\u010Dka"
+  - Victoria Berdion Gabarain
+  - Juan Manuel Peralta
+  - "Tom\xE1s Urz\xFAa Lehued\xE9"
+  - Miguel Angel Ibeas
+  - Martiniano M. Ricardi
+  - Sirui Zhu
+  - Yanan Shen
+  - Mikhail Schepetilnikov
+  - Lyubov A. Ryabova
+  - "Jos\xE9 M. Alvarez"
+  - Rodrigo A. Gutierrez
+  - Guido Grossmann
+  - "Jozef \u0160amaj"
+  - Feng Yu
+  - "Jos\xE9 M. Estevez"
+  publisher: New Phytologist
+  date: '2023-01-30'
+  link: https://doi.org/g7bhx9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cub.2022.03.022
+  title: Molecular mechanisms underlying nitrate responses in plants
+  authors:
+  - Liliana Lamig
+  - "Sebasti\xE1n Moreno"
+  - "Jos\xE9 M. \xC1lvarez"
+  - "Rodrigo A. Guti\xE9rrez"
+  publisher: Current Biology
+  date: '2022-05-01'
+  link: https://doi.org/gqjs2h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/nph.18095
+  title: Predictive metabolomics of multiple Atacama plant species unveils a core
+    set of generic metabolites for extreme climate resilience
+  authors:
+  - Thomas Dussarrat
+  - Sylvain Prigent
+  - Claudio Latorre
+  - "St\xE9phane Bernillon"
+  - "Am\xE9lie Flandin"
+  - "Francisca P. D\xEDaz"
+  - "C\xE9dric Cassan"
+  - Pierre Van Delft
+  - Daniel Jacob
+  - Kranthi Varala
+  - "J\xE9r\xF4me Joubes"
+  - Yves Gibon
+  - Dominique Rolin
+  - "Rodrigo A. Guti\xE9rrez"
+  - "Pierre P\xE9triacq"
+  publisher: New Phytologist
+  date: '2022-04-05'
+  link: https://doi.org/gq88z7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/nph.18080
+  title: "Partners to survive: <i>Hoffmannseggia doellii</i> root\u2010associated\
+    \ microbiome at the Atacama Desert"
+  authors:
+  - Jonathan E. Maldonado
+  - Alexis Gaete
+  - Dinka Mandakovic
+  - "Constanza Aguado\u2010Norese"
+  - Melissa Aguilar
+  - "Rodrigo A. Guti\xE9rrez"
+  - "Mauricio Gonz\xE1lez"
+  publisher: New Phytologist
+  date: '2022-03-31'
+  link: https://doi.org/gpn3km
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.1918619117
+  title: "Nutrient dose-responsive transcriptome changes driven by Michaelis\u2013\
+    Menten kinetics underlie plant growth rates"
+  authors:
+  - Joseph Swift
+  - Jose M. Alvarez
+  - Viviana Araus
+  - "Rodrigo A. Guti\xE9rrez"
+  - Gloria M. Coruzzi
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2020-05-15'
+  link: https://doi.org/gg6pw7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.2107879119
+  title: Spatiotemporal analysis identifies ABF2 and ABF3 as key hubs of endodermal
+    response to nitrate
+  authors:
+  - "Orlando Contreras-L\xF3pez"
+  - Elena A. Vidal
+  - Eleodoro Riveras
+  - "Jos\xE9 M. Alvarez"
+  - "Tom\xE1s C. Moyano"
+  - Erin E. Sparks
+  - "Joaqu\xEDn Medina"
+  - Angelo Pasquino
+  - Philip N. Benfey
+  - Gloria M. Coruzzi
+  - "Rodrigo A. Guti\xE9rrez"
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2022-01-19'
+  link: https://doi.org/hbjqwc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ygeno.2021.12.018
+  title: Genome sequencing and transcriptomic analysis of the Andean killifish Orestias
+    ascotanensis reveals adaptation to high-altitude aquatic life
+  authors:
+  - Alex Di Genova
+  - Gino Nardocci
+  - Rodrigo Maldonado-Agurto
+  - Christian Hodar
+  - Camilo Valdivieso
+  - Pamela Morales
+  - Felipe Gajardo
+  - Raquel Marina
+  - "Rodrigo A. Guti\xE9rrez"
+  - Ariel Orellana
+  - Veronica Cambiazo
+  - "Mauricio Gonz\xE1lez"
+  - Alvaro Glavic
+  - Marco A. Mendez
+  - Alejandro Maass
+  - Miguel L. Allende
+  - Martin A. Montecino
+  publisher: Genomics
+  date: '2022-01-01'
+  link: https://doi.org/hbjqwd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.2101177118
+  title: Plant ecological genomics at the limits of life in the Atacama Desert
+  authors:
+  - Gil Eshel
+  - Viviana Araus
+  - Soledad Undurraga
+  - Daniela C. Soto
+  - Carol Moraga
+  - Alejandro Montecinos
+  - "Tom\xE1s Moyano"
+  - Jonathan Maldonado
+  - "Francisca P. D\xEDaz"
+  - Kranthi Varala
+  - Chase W. Nelson
+  - "Orlando Contreras-L\xF3pez"
+  - Henrietta Pal-Gabor
+  - Tatiana Kraiser
+  - Gabriela Carrasco-Puga
+  - Ricardo Nilo-Poyanco
+  - Charles M. Zegar
+  - Ariel Orellana
+  - "Mart\xEDn Montecino"
+  - Alejandro Maass
+  - Miguel L. Allende
+  - Robert DeSalle
+  - Dennis W. Stevenson
+  - "Mauricio Gonz\xE1lez"
+  - Claudio Latorre
+  - Gloria M. Coruzzi
+  - "Rodrigo A. Guti\xE9rrez"
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2021-11-01'
+  link: https://doi.org/gnbspz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.pneurobio.2021.102122
+  title: c-Abl regulates a synaptic plasticity-related transcriptional program involved
+    in memory and learning
+  authors:
+  - "Adri\xE1n Gonz\xE1lez-Mart\xEDn"
+  - "Tom\xE1s Moyano"
+  - "Daniela A. Guti\xE9rrez"
+  - Franciso J. Carvajal
+  - Waldo Cerpa
+  - Jonathan G. Hanley
+  - "Rodrigo A. Guti\xE9rrez"
+  - "Alejandra R. \xC1lvarez"
+  publisher: Progress in Neurobiology
+  date: '2021-10-01'
+  link: https://doi.org/hbjqwf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-1-0716-1534-8_3
+  title: Genomic Footprinting Analyses from DNase-seq Data to Construct Gene Regulatory
+    Networks
+  authors:
+  - "Tom\xE1s C. Moyano"
+  - "Rodrigo A. Guti\xE9rrez"
+  - "Jos\xE9 M. Alvarez"
+  publisher: Methods in Molecular Biology
+  date: '2021-01-01'
+  link: https://doi.org/hbjqwg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.15252/embr.202051813
+  title: Nitrate triggered phosphoproteome changes and a PIN2 phosphosite modulating
+    root system architecture
+  authors:
+  - Andrea Vega
+  - Isabel Fredes
+  - "Jos\xE9 O\u2019Brien"
+  - Zhouxin Shen
+  - "Krisztina \xD6tv\xF6s"
+  - Rashed Abualia
+  - Eva Benkova
+  - Steven P Briggs
+  - "Rodrigo A Guti\xE9rrez"
+  publisher: EMBO reports
+  date: '2021-08-06'
+  link: https://doi.org/g9bcqd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/plphys/kiab047
+  title: Genome-wide analysis in response to nitrogen and carbon identifies regulators
+    for root AtNRT2 transporters
+  authors:
+  - Sandrine Ruffel
+  - Valentin Chaput
+  - Jonathan Przybyla-Toscano
+  - Ian Fayos
+  - Catalina Ibarra
+  - Tomas Moyano
+  - "C\xE9cile Fizames"
+  - Pascal Tillard
+  - "Jose Antonio O\u2019Brien"
+  - "Rodrigo A Guti\xE9rrez"
+  - Alain Gojon
+  - Laurence Lejay
+  publisher: Plant Physiology
+  date: '2021-02-05'
+  link: https://doi.org/gkx2pv
+  plugin: sources.py
+  file: sources.yaml
