@@ -1,6 +1,6 @@
 ---
 name: Karem Tamayo
- image: images/members/Karem.jpg
+image: images/members/Karem.jpg
 description: Plant molecular biology
 status: current
 role: Lab manager
