@@ -1,5 +1,5 @@
 ---
-title: Current Lab Members
+title: Lab Members
 
 nav:
   order: 3
