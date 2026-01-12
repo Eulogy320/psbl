@@ -1,3 +1,4 @@
+---
 name: Rodrigo Gutierrez 
 image: images/members/profe.jpg
 description: Plant molecular biology
